@@ -45,3 +45,6 @@ Daemon
 ------------------------------------------------------------
 Status: Not running
 ```
+```
+    jenga info me donne montre les projets qui sont effectivement construits.
+```
